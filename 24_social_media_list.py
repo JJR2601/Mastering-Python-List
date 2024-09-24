@@ -1,4 +1,4 @@
-socmed = ["facebook", "reddit", "youtube", "instagram". "tumblr", "x", "whatsapp", "telegram", "tiktok", "medium"]
+socmed = ["facebook", "reddit", "youtube", "instagram", "tumblr", "x", "whatsapp", "telegram", "tiktok", "medium"]
 
 print(socmed)
 
