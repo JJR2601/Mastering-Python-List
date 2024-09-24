@@ -1,11 +1,11 @@
-tools = ["pencil", "hammer", "screwdriver", "mallet", "chisel", "hand saw", "power drill", "sander", "nailer", "tape measure"]
+tool = ["pencil", "hammer", "screwdriver", "mallet", "chisel", "hand saw", "power drill", "sander", "nailer", "tape measure"]
 
-print(tools)
+print(tool)
 
-print(tools[4])
+print(tool[4])
 
-tools[-3] = "hammer"
+tool[-3] = "hammer"
 
-del tools[5]
+del tool[5]
 
-print(tools[-1])
+print(tool[-1])
