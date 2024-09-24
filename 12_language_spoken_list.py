@@ -19,4 +19,4 @@ del language_spoken[-4]
 language_spoken[6:11]
 
 # G. Print the last index
-print(language_spoken[-1]) 12_language_spoken.list.py
+print(language_spoken[-1]) 
