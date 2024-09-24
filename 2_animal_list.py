@@ -13,5 +13,5 @@ animal_list[6] = "elephant"
 # E. Delete the 8th index
 del animal_list[8]
 
-# Print the last index
+# F. Print the last index
 print(animal_list[-1])
