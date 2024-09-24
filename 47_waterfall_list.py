@@ -1,11 +1,11 @@
-waterfall = ["niagara", "iguazu", "gullfoss", "rhine", "angel", "jog", "kaieteur", "yosemite", "sutherland", "victoria"]
+waterfalls = ["niagara", "iguazu", "gullfoss", "rhine", "angel", "jog", "kaieteur", "yosemite", "sutherland", "victoria"]
 
-print(waterfall)
+print(waterfalls)
 
-print(waterfall[-2])
+print(waterfalls[-2])
 
-waterfall[5] = "niagra"
+waterfalls[5] = "niagra"
 
-del waterfall[-1]
+del waterfalls[-1]
 
-print(waterfall[-1])
+print(waterfalls[-1])
