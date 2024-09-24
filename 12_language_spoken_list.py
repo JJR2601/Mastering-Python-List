@@ -1,4 +1,4 @@
-# A. Create a list of 20 languages spoken around the world
+# A. Create a list of 20 languages spoken around the worldd
 language_spoken = ["tagalog", "japanese", "english", "hindi", "russian", "vietnamese", "turkish", "bengali", "portugeuse"
                    , "arabic", "mandarin", "bisaya", "indonesian", "urdu", "nigerian pidgin", "tamil", "korean", "hebrew",
                    "javanese", "abkhazian"]
